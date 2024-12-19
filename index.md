@@ -64,7 +64,6 @@ This blog contains my journey into Coding.
         </div>
     </a>
 </div>
-</div>
 
 <br>
 
